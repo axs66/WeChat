@@ -31,7 +31,7 @@
 
 ## Star🌟
 
-<img src="https://api.star-history.com/svg?repos=yinanan77/Yi_WeChat&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+<img src="https://api.star-history.com/svg?repos=axs66/WeChat_dump&type=Date" alt="Star History Chart" width="600" height="356" align="center">
 
 ## 特别感谢
 *  [@sliverkiss](https://github.com/sliverkiss) 
