@@ -1,4 +1,4 @@
-# [点击跳转纯净全权限微信ipa安装包](https://github.com/axs66/WeChat/releases/tag/WeChat_Dump)
+# [点此跳转纯净全权限微信ipa安装包](https://github.com/axs66/WeChat/releases/tag/WeChat_Dump)
 默认全权限纯净砸壳，仅做个人备份使用。
 
 ### ✈分享频道： [@wxfx8](https://t.me/wxfx8)                  
