@@ -1,9 +1,6 @@
 # [WeChat_Dump](https://github.com/axs66/WeChat/releases/tag/WeChat_Dump)
 默认全权限纯净砸壳
 
-# [WeChat_Plugins](https://github.com/axs66/repo/tree/main/debs)
-旧版本插件备份
-
 仅做个人备份使用.
 
 ### 频道： [@wxfx8](https://t.me/wxfx8) 
