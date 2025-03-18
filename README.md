@@ -28,15 +28,3 @@
 * 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
 
 * 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
-
-## Star🌟
-
-<img src="https://api.star-history.com/svg?repos=axs66/WeChat_dump&type=Date" alt="Star History Chart" width="600" height="356" align="center">
-
-## 特别感谢
-*  [@sliverkiss](https://github.com/sliverkiss) 
-
-## License
-
-[MIT](LICENSE)
-
