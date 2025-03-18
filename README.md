@@ -1,4 +1,4 @@
-# [WeChat_Dump](https://github.com/axs66/WeChat_dump/releases/tag/WeChat_dump)
+# [WeChat_Dump](https://github.com/axs66/WeChat/releases/tag/WeChat_Dump)
 默认全权限纯净砸壳
 
 # [WeChat_Plugins](https://github.com/axs66/repo/tree/main/debs)
